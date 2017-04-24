@@ -1,6 +1,6 @@
 {
   "name": "moondust-koa2-route-loader",
-  "version": "1.0.0",
+  "version": "1.0.4",
   "description": "路由加载",
   "main": "index.js",
   "scripts": {
